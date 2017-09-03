@@ -1,1 +1,13 @@
-Teste de comit no git
+Comandos Básicos de GIT:
+- criar uma pasta local onde irá efetuar o clone do repo
+- pelo cmd, acesse a raiz da pasta criada. 
+- git init 
+- git clone <endereco do repo a ser copiado>
+- efetuar os testes na pasta local (criar arquivos, alterar, etc..)
+- git add <arquivo> (Adiciona somente esse arquivo)
+  git add * (adiciona todas alterações)
+- git commit -m "Texto do commit" (Inclui o comentario e os arquivos no header)
+- acesse a pasta local
+- git push <nome do repo> <master/ou branch>
+
+
